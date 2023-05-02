@@ -1,4 +1,4 @@
-# flutter_dio
+# flutter_provider
 
 A new Flutter project.
 
